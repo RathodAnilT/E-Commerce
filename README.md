@@ -10,3 +10,8 @@
 - Code Splitting: Optimize loading times by implementing code splitting for your React application.
 - Lazy Loading: Use lazy loading for images and components to improve performance.
 - Optimize Assets: Compress and optimize images and other assets for faster loading times
+
+# Design and UX
+- Responsive Design: Ensure your website is fully responsive and looks good on all devices.
+- Accessibility: Implement accessibility features to make your website usable for people with disabilities.
+- A/B Testing: Conduct A/B testing to find the best designs and features for user engagement.
