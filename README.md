@@ -35,3 +35,7 @@
 - SEO Optimization: Improve your website’s SEO to increase visibility in search engines.
 - Email Marketing: Set up email campaigns for promotions, newsletters, and user engagement.
 - Social Media Integration: Integrate social media features to increase user engagement and sharing.
+
+# Documentation and Support
+- User Documentation: Provide documentation or guides for users on how to use your website.
+- Developer Documentation: Document your codebase and setup instructions for future development or handover.
