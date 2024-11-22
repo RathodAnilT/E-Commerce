@@ -1,4 +1,4 @@
-# Feature Enhancements
+## Feature Enhancements ^-^
 - User Authentication: Implement user registration, login, and profile management.
 - Product Reviews: Allow users to leave reviews and ratings for products.
 - Search and Filtering: Add advanced search and filtering options for products.
