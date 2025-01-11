@@ -5,7 +5,7 @@ const Contact = () => {
   return (
     <div className="flex justify-center items-center min-h-screen bg-gray-900 p-6">
       <div className="w-full max-w-4xl bg-gray-800 text-white p-8 rounded-lg shadow-lg">
-        <h1 className="text-3xl font-bold mb-6 text-center">Contact Us</h1>
+        <h1 className="text-3xl font-bold mb-6 text-center">Contact Us -- this is not a active page😊  </h1>
         <form className="space-y-6">
           <div className="flex gap-4">
             <div className="flex-1">
