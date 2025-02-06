@@ -40,6 +40,4 @@
 - User Documentation: Provide documentation or guides for users on how to use your website.
 - Developer Documentation: Document your codebase and setup instructions for future development or handover.
 
-# Internationalization
-- Multiple Languages: Implement support for multiple languages if you plan to cater to international users.
-- Currency Conversion: Allow users to view prices and make purchases in their local currency.
+
