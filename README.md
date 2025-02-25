@@ -19,7 +19,7 @@
  # Backend and API Development
 - API Integration: Integrate with payment gateways (e.g., Stripe, PayPal) for handling transactions.
 - Security: Implement security features such as HTTPS, data encryption, and protection against common vulnerabilities.
-- Scalability: Optimize backend services to handle increased traffic and user load.
+
 
 
 
