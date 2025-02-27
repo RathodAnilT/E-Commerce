@@ -13,7 +13,6 @@
 
 # Design and UX
 - Responsive Design: Ensure your website is fully responsive and looks good on all devices.
-- Accessibility: Implement accessibility features to make your website usable for people with disabilities.
 
 
  # Backend and API Development
